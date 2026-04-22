@@ -28,7 +28,7 @@ spack:
 
     - pythia8@8.317 -hepmc +hepmc3
     - geant4@11.4.1 -data
-    - fastjet@3.5.0 plugins=cxx
+    - fastjet@3.5.1 plugins=cxx
 
     - onnxruntime-bin@1.24.4
 
